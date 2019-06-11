@@ -1,0 +1,24 @@
+{
+  "name": "dnsupdater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garciamax/dnsupdater.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garciamax/dnsupdater/issues"
+  },
+  "homepage": "https://github.com/garciamax/dnsupdater#readme",
+  "dependencies": {
+    "do-wrapper": "^3.22.0",
+    "dotenv": "^8.0.0"
+  }
+}
